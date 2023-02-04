@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670428837 source:d:\c dersleri\rastgelesayiuretme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
