@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667498931 source:d:\c dersleri\do-while, for döngüleri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
