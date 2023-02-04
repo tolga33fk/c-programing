@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664997929 source:d:\c dersleri\c ile dosyadan veri okuma yazdýrma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fileapi.h>
+
