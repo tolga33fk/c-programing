@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673188120 source:d:\c dersleri\dosya islemleri 2. proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

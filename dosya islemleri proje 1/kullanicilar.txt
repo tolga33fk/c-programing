@@ -1,0 +1,4 @@
+ismi ve soyismi:tolgaferhankucuk
+numarasi:220201009
+okul:kocaeliuni
+sinif:1
